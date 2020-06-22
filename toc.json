@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "toc_title": "Overview",
+      "children": [
+        {
+          "href": "search-what-is-azure-search",
+          "toc_title": "What is Azure Cognitive Search?"
+        },
+        {
+          "href": "whats-new",
+          "toc_title": "What's new"
+        }
+      ]
+    },
+    {
+      "toc_title": "Quickstarts",
+      "children": [
+        {
+          "toc_title": "Portal",
+          "children": [
+            {
+              "href": "search-create-service-portal",
+              "toc_title": "Create a service"
+            },
+            {
+              "href": "search-get-started-portal",
+              "toc_title": "Create an index"
+            }
+          ]
+        },
+        {
+          "displayName": "Resource Manager",
+          "href": "search-get-started-arm",
+          "toc_title": "ARM template"
+        },
+        {
+          "href": "search-get-started-dotnet",
+          "toc_title": "C#"
+        }
+      ]
+    }
+  ]
+}
