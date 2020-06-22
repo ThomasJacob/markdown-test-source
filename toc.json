@@ -1,12 +1,12 @@
 {
   "items": [
     {
+      "href": "search-what-is-azure-search",
+      "toc_title": "What is Azure Cognitive Search?"
+    },
+    {
       "toc_title": "Overview",
       "children": [
-        {
-          "href": "search-what-is-azure-search",
-          "toc_title": "What is Azure Cognitive Search?"
-        },
         {
           "href": "whats-new",
           "toc_title": "What's new"
