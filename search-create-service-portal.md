@@ -4,7 +4,7 @@ Azure Cognitive Search is a standalone resource used to plug a search experience
 
 In this article, learn how to create a resource in the [Azure portal](https://portal.azure.com/).
 
-[![Animated GIF](./media/search-create-service-portal/AnimatedGif-AzureSearch-small.gif)](./media/search-create-service-portal/AnimatedGif-AzureSearch.gif#lightbox)
+[![Animated GIF](.media/search-create-service-portal/animatedgif-azuresearch-small.gif)](.media/search-create-service-portal/animatedgif-azuresearch-small.gif#lightbox)
 
 Prefer PowerShell? Use the Azure Resource Manager [service template](https://azure.microsoft.com/resources/templates/101-azure-search-create/). For help with getting started, see [Manage Azure Cognitive Search with PowerShell](search-manage-powershell.md).
 
